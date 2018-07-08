@@ -1,0 +1,9 @@
+{
+  "name": "css-modules-css-reset",
+  "version": "1.0.0",
+  "description": "The Eric Meyer CSS reset with selectors wrapped in :global([selector]) –– aka., will work when using CSS Modules with a one-line import",
+  "main": "reset.css",
+  "repository": "https://github.com/harrysolovay/css-modules-css-reset",
+  "author": "Harry Solovay <harrysolovay@gmail.com>",
+  "license": "MIT"
+}
